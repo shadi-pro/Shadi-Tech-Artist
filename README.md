@@ -32,10 +32,14 @@ I specialize in building scalable web and mobile apps, reusable tools, and innov
 
 Check out my products and templates across platforms:  
 
-- [Gumroad – Digital Products](https://gumroad.com/your-profile)  
-- [Flutter Apps Showcase](https://your-flutter-site.com)  
-- [CodeCanyon – Upcoming Products](https://codecanyon.net/user/your-profile)  
+- ## 🌐 Explore My Work & Digital Products
 
+– ready-to-use Flutter app template  
+- [Flutter App Templates – Gumroad](https://shaditechartist.gumroad.com/l/bbrbj?_gl=1*tn06j9*_ga*ODM1NTQwODY4LjE3NzAwNjAyNjM.*_ga_6LJN6D94N6*czE3NzA2NzA2MjUkbzEyJGcwJHQxNzcwNjcwNjI1JGo2MCRsMCRoMA..) 
+
+- [Other Products – Gumroad](https://gumroad.com/your-other-product) – additional templates coming soon  
+  
+ 
 *(Links above are live and always up-to-date.)*
 
 ---
